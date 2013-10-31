@@ -1,3 +1,5 @@
+Fixed the original, deprecated branch, now just follow the instructions below and it should work! (As of 31/10/2013)
+
 Note: You might want to look at https://github.com/markpundsack/jekyll-example-with-heroku-buildpack for a much simpler version!
 
 Creating a Jekyll App on Heroku Cedar (from GitHub)
